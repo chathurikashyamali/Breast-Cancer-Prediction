@@ -2,6 +2,8 @@
 An interactive Streamlit web application that predicts whether a breast tumor is benign or malignant based on medical measurements.
 This project uses a trained Machine Learning model built with Scikit-learn and is intended for educational purposes only (not for medical diagnosis).
 
+🔗https://breastcancerdetectionm1.streamlit.app/
+
 📌 Features
 User-friendly interface for entering tumor feature values.
 
